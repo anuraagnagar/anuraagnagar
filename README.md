@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anurag Nagar</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Anurag Nagar</h1>
+<h3 align="left">A Passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraagnagar&label=Profile%20views&color=0e75b6&style=flat" alt="anuraagnagar" /> </p>
+<br/>
+<p align="left">
+  <img alt="Profile view" src="https://komarev.com/ghpvc/?username=anuraagnagar&label=PROFILE+VIEWS&style=for-the-badge&color=d48e24">
+</p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anuraagnagar" alt="anuraagnagar" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anuraagnagar&theme=juicyfresh&no-bg=true&no-frame=false&border=transparent" alt="anuraagnagar" /> </p>
 
 - 🔭 I’m currently working on **"E-commerce App"**
 
@@ -14,14 +17,33 @@
 - 📫 Contact me **nagaranurag1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/__anuraag__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="__anuraag__18" height="30" width="40" /></a>
-</p>
+<a href="">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
+</a>
+<a href="">
+    <img src="[./Images/dev.png](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)" alt="Dev" width="48px" borderRadius="10px"style="border-radius:10px !important;" />
+</a>
+<a href="">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
+</a>
+<hr/>
+
+
+
+<h3>GitHub Profile Stats </h3>
+<br/>
+<div style="display:flex;flex-direction:row;">
+  <a href="https://github.com/anuraagnagar/anuraagnagar">
+      <img height="180px" align="center" alt="Anuraag's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anuraagnagar&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
+  </a>
+  <a href="https://github.com/anuraagnagar/anuraagnagar">
+      <img height="180px" align="center" alt="Anuraag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
+  </a>
+</div>
+<br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraagnagar&show_icons=true&locale=en&layout=compact" alt="anuraagnagar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraagnagar&show_icons=true&locale=en" alt="anuraagnagar" /></p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,bootstrap,django,flask,react,redux,sass,jquery,mysql,sqlite,git,github,visualstudio,vscode,postman,thunderclient)](https://skillicons.dev)
 
