@@ -21,15 +21,10 @@
 <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="">
+<a href="https://dev.to/anurag_nagar">
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev" />
 </a>
-<a href="">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
 <hr/>
-
-
 
   <a href="https://github.com/anuraagnagar/anuraagnagar">
       <img height="180px" align="center" alt="Anuraag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
