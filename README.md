@@ -21,6 +21,9 @@
 <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<a href="https://stackoverflow.com/users/22607231/anurag-nagar">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Dev" />
+</a>
 <a href="https://dev.to/anurag_nagar">
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev" />
 </a>
@@ -35,61 +38,61 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="">
+<a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" alt="Python"  />
 </a>
-<a href="">
+<a href="https://www.javascript.info">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"  />
 </a>
-<a href="">
+<a href="https://www.html.com">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML"  />
 </a>
-<a href="">
+<a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS"  />
 </a>
-<a href="">
+<a href="https://www.nodejs.org/en/">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
 </a>
-<a href="">
+<a href="https://docs.djangoproject.com/en/4.2">
     <img src="https://skillicons.dev/icons?i=django" alt="Django"  />
 </a>
-<a href="">
+<a href="https://flask.palletsprojects.com">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask"  />
 </a>
-<a href="">
+<a href="https://www.react.dev">
     <img src="https://skillicons.dev/icons?i=react" alt="React"  />
 </a>
-<a href="">
+<a href="https://www.redux.js.org">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux"  />
 </a>
-<a href="">
+<a href="https://www.getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"  />
 </a>
-<a href="">
+<a href="https://www.sass-lang.com">
     <img src="https://skillicons.dev/icons?i=sass" alt="Sass"  />
 </a>
-<a href="">
+<a href="https://www.jquery.com">
     <img src="https://skillicons.dev/icons?i=jquery" alt="Jquery"  />
 </a>
-<a href="">
+<a href="https://www.mysql.com">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  />
 </a>
-<a href="">
+<a href="https://www.sqlite.org">
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"  />
 </a>
-<a href="">
+<a href="https://www.git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" alt="Git"  />
 </a>
-<a href="">
+<a href="https://www.github.com">
     <img src="https://skillicons.dev/icons?i=github" alt="Github"  />
 </a>
-<a href="">
+<a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"  />
 </a>
-<a href="">
+<a href="https://www.postman.com">
     <img src="https://skillicons.dev/icons?i=postman" alt="PostMan"  />
 </a>
-<a href="">
+<a href="https://www.thunderclient.com">
     <img src="https://skillicons.dev/icons?i=thunderclient" alt="ThunderClient"  />
 </a>
 
