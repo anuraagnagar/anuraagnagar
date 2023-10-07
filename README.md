@@ -6,13 +6,11 @@
   <img alt="Profile view" src="https://komarev.com/ghpvc/?username=anuraagnagar&label=PROFILE+VIEWS&style=for-the-badge&color=d48e24">
 </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anuraagnagar&theme=juicyfresh&no-bg=true&no-frame=false&border=transparent" alt="anuraagnagar" /> </p>
-
 - 🔭 I’m currently working on **"E-commerce App"**
 
 - 🌱 I’m currently learning **Django, React**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django & React**
 
 - 📫 Contact me **nagaranurag1999@gmail.com**
 
