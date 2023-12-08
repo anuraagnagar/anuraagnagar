@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="">
+<a href="https://www.linkedin.com/in/anuraag-nagar">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://stackoverflow.com/users/22607231/anurag-nagar">
@@ -34,7 +34,7 @@
 <br/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages & Database</h2>
 
 <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" alt="Python"  />
@@ -42,12 +42,27 @@
 <a href="https://www.javascript.info">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"  />
 </a>
+<a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"  />
+</a>
 <a href="https://www.html.com">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML"  />
 </a>
 <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS"  />
 </a>
+<a href="https://www.sqlite.org">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"  />
+</a>
+<a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  />
+</a>
+<a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"  />
+</a>
+
+<h2 align="left">Framework & Library</h2>
+
 <a href="https://www.nodejs.org/en/">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
 </a>
@@ -63,6 +78,12 @@
 <a href="https://www.redux.js.org">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux"  />
 </a>
+<a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS"  />
+</a>
+<a href="https://mui.com">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  />
+</a>
 <a href="https://www.getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"  />
 </a>
@@ -72,12 +93,12 @@
 <a href="https://www.jquery.com">
     <img src="https://skillicons.dev/icons?i=jquery" alt="Jquery"  />
 </a>
-<a href="https://www.mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  />
+<a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis"  />
 </a>
-<a href="https://www.sqlite.org">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"  />
-</a>
+
+<h2 align="left">Tools</h2>
+
 <a href="https://www.git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" alt="Git"  />
 </a>
@@ -90,7 +111,13 @@
 <a href="https://www.postman.com">
     <img src="https://skillicons.dev/icons?i=postman" alt="PostMan"  />
 </a>
-<a href="https://www.thunderclient.com">
-    <img src="https://skillicons.dev/icons?i=thunderclient" alt="ThunderClient"  />
+<a href="https://www.replit.com">
+    <img src="https://skillicons.dev/icons?i=replit" alt="Replit"  />
+</a>
+<a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"  />
+</a>
+<a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma"  />
 </a>
 
