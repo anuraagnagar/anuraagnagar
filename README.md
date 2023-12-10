@@ -99,6 +99,9 @@
 
 <h2 align="left">Tools</h2>
 
+<a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"  />
+</a>
 <a href="https://www.git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" alt="Git"  />
 </a>
@@ -120,4 +123,9 @@
 <a href="https://www.figma.com">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma"  />
 </a>
-
+<a href="https://vercel.com">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"  />
+</a>
+<a href="https://www.netlify.com">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"  />
+</a>
