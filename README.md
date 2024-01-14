@@ -31,19 +31,25 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%">
+    <th>
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+    </th>
+    <th>
+      <h3 align="center"><strong>Language Sᴛᴀᴛs</strong></h3>
+    </th>
+  </tr>
+  <tr>
+    <td width="50%">
       <p align="center">
         <a href="https://github.com/anuraagnagar">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraagnagar&show_icons=true&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraagnagar&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Language Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/anuraagnagar">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&layout=compact&theme=transparent&hide_border=true&text_bold=true&hide=Jupyter%20Notebook" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&layout=compact&theme=transparent&hide_border=true&text_bold=true&hide=Jupyter%20Notebook" alt="Language Stats" />
         </a>
       </p>
     </td>
@@ -52,15 +58,15 @@
 
 <h2 align="center">Languages & Database</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres&perline=8" />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,redis&perline=9" />
 </div>
 
 <h2 align="center">Framework & Library</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,redis&perline=8" />
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery&perline=9" />
 </div>
 
 <h2 align="center">Tools</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=8" />
+  <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=9" />
 </div>
