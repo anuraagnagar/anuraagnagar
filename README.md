@@ -25,107 +25,42 @@
 <a href="https://dev.to/anurag_nagar">
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev" />
 </a>
-<hr/>
 
-  <a href="https://github.com/anuraagnagar/anuraagnagar">
-      <img height="180px" align="center" alt="Anuraag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
-  </a>
+<!-- My Github stats --> 
+<h2 align="center">My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anuraagnagar">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraagnagar&show_icons=true&theme=transparent&hide_border=true&text_bold=true" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Language Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anuraagnagar">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagnagar&layout=compact&theme=transparent&hide_border=true&text_bold=true&hide=Jupyter%20Notebook" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Languages & Database</h2>
+<div align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres&perline=8" />
 </div>
-<br/>
 
+<h2 align="center">Framework & Library</h2>
+<div align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery,redis&perline=8" />
+</div>
 
-<h2 align="left">Languages & Database</h2>
-
-<a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python"  />
-</a>
-<a href="https://www.javascript.info">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"  />
-</a>
-<a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"  />
-</a>
-<a href="https://www.html.com">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML"  />
-</a>
-<a href="https://www.w3schools.com/css/">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS"  />
-</a>
-<a href="https://www.sqlite.org">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"  />
-</a>
-<a href="https://www.mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  />
-</a>
-<a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"  />
-</a>
-
-<h2 align="left">Framework & Library</h2>
-
-<a href="https://www.nodejs.org/en/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
-</a>
-<a href="https://docs.djangoproject.com/en/4.2">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django"  />
-</a>
-<a href="https://flask.palletsprojects.com">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask"  />
-</a>
-<a href="https://www.react.dev">
-    <img src="https://skillicons.dev/icons?i=react" alt="React"  />
-</a>
-<a href="https://www.redux.js.org">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux"  />
-</a>
-<a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS"  />
-</a>
-<a href="https://mui.com">
-    <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  />
-</a>
-<a href="https://www.getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"  />
-</a>
-<a href="https://www.sass-lang.com">
-    <img src="https://skillicons.dev/icons?i=sass" alt="Sass"  />
-</a>
-<a href="https://www.jquery.com">
-    <img src="https://skillicons.dev/icons?i=jquery" alt="Jquery"  />
-</a>
-<a href="https://redis.io">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis"  />
-</a>
-
-<h2 align="left">Tools</h2>
-
-<a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"  />
-</a>
-<a href="https://www.git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git"  />
-</a>
-<a href="https://www.github.com">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github"  />
-</a>
-<a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"  />
-</a>
-<a href="https://www.postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" alt="PostMan"  />
-</a>
-<a href="https://www.replit.com">
-    <img src="https://skillicons.dev/icons?i=replit" alt="Replit"  />
-</a>
-<a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"  />
-</a>
-<a href="https://www.figma.com">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma"  />
-</a>
-<a href="https://vercel.com">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"  />
-</a>
-<a href="https://www.netlify.com">
-    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"  />
-</a>
+<h2 align="center">Tools</h2>
+<div align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=8" />
+</div>
