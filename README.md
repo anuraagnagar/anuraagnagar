@@ -1,29 +1,28 @@
 <h1 align="center">Hi <a href="https://github.com/anuraagnagar"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, 
   I'm <a href="https://github.com/anuraagnagar">Anurag</a> Nagar</h1>
-<h2 align="center">A Self-taught Passionate Full-Stack Web Developer from India 🇮🇳</h2>
-
+<h3 align="center">Turning Ideas into Code | Crafting Seamless User Experiences & Robust Backend Services</h3>
+<h3 align="center">Self-taught and Passionate Full-Stack Developer from India 🇮🇳</h3>
 <br/>
 <p align="left">
   <img alt="Profile view" src="https://komarev.com/ghpvc/?username=anuraagnagar&label=PROFILE+VIEWS&style=for-the-badge&color=045ddc">
 </p>
 
-<h3 align="left">About Me🧔‍♂️</h3>
+<h3 align="left">About Me 😎</h3>
 
-- 🔭 I’m currently working on **"Social Media App"**
+- 🧑‍💻 I’m currently working on **"Robust Chat Application"**
 
-- 💙 I love to building Things in **JavaScript**
+- 💙 I love to building Things in **JavaScript** & **Python**🐍
 
-- 🌱 I’m currently learning **NextJS**
+- ⚓ Diving deeper into **TypeScript**, **Docker**, and scalable backend architectures
 
 - 💬 Ask me about **JavaScript, React & Django**
 
-- 📫 Contact me **nagaranurag1999@gmail.com**
+- 📫 Contact me **anuragnagarwork@gmail.com**
 
 <h3 align="left">Connect With Me</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagaranurag1999@gmail.com)](mailto:nagaranurag1999@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraag-nagar/)](https://www.linkedin.com/in/anuraag-nagar)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/anuraagnagar)](https://github.com/anuraagnagar)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-f48730?style=flat-square&logo=stack-overflow&logoColor=white&link=https://github.com/anurag-nagar)](https://stackoverflow.com/users/22607231/anurag-nagar)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://twitter.com/AnuraagNagar)
 
@@ -59,12 +58,12 @@
 
 <h2 align="center">Languages & Database</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,redis&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,mongodb,redis&perline=10" />
 </div>
 
 <h2 align="center">Frameworks & Libraries</h2>
 <div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,tailwind,materialui,bootstrap,sass,jquery&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,nextjs,tailwind,materialui,bootstrap,sass&perline=10" />
 </div>
 
 <h2 align="center">Software & Tools</h2>
