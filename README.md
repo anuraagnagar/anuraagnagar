@@ -56,17 +56,37 @@
   </tr>
 </table>
 
-<h2 align="center">Languages & Database</h2>
-<div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,mongodb,redis&perline=10" />
-</div>
+<h2 align="center">My Technologies</h2>
 
-<h2 align="center">Frameworks & Libraries</h2>
-<div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,nextjs,tailwind,materialui,bootstrap,sass&perline=10" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages & Database</strong></td>
+  </tr>
+  <tr>
+    <td>
+    <img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,sqlite,mysql,postgres,mongodb,redis&perline=10" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">Software & Tools</h2>
-<div align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=10" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
+  </tr>
+  <tr>
+    <td>
+    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,nextjs,tailwind,materialui,bootstrap,sass&perline=10" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Software & Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=10" />
+    </td>
+  </tr>
+</table>
