@@ -1,13 +1,13 @@
 <h1 align="center">Hi <a href="https://github.com/anuraagnagar"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, 
-  I'm <a href="https://github.com/anuraagnagar">Anurag</a> Nagar</h1>
-<h3 align="center">Turning Ideas into Code | Crafting Seamless User Experiences & Robust Backend Services</h3>
-<h3 align="center">Self-taught and Passionate Full-Stack Developer from India 🇮🇳</h3>
+  I'm <a href="https://github.com/anuraagnagar"><i style="color:blue;">Anurag</i></a> Nagar</h1>
+<p align="center">Self-taught and Passionate Developer from India 🇮🇳</p>
+<p align="center">I'm a Full-Stack Developer focused on delivering robust, maintainable, and performance-driven solutions.</p>
 <br/>
 <p align="left">
   <img alt="Profile view" src="https://komarev.com/ghpvc/?username=anuraagnagar&label=PROFILE+VIEWS&style=for-the-badge&color=045ddc">
 </p>
 
-<h3 align="left">About Me 😎</h3>
+<h3 align="left">😎 About Me</h3>
 
 - 🧑‍💻 I’m currently working on **"Robust Chat Application"**
 
@@ -19,12 +19,24 @@
 
 - 📫 Contact me **anuragnagarwork@gmail.com**
 
+<h3 align="left">📚 Ongoing Exploration</h3>
+
+- 💢 Distributed Systems & **Microservices**
+
+- ⚡ Advanced Caching Strategies & **CDN** Integration
+
+- 🔄 Event-Driven & Asynchronous Workflows
+
+- 📊 Observability & Performance Monitoring
+
+- 🧩 Design Patterns & System Design
+
 <h3 align="left">Connect With Me</h3>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagaranurag1999@gmail.com)](mailto:nagaranurag1999@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraag-nagar/)](https://www.linkedin.com/in/anuraag-nagar)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-f48730?style=flat-square&logo=stack-overflow&logoColor=white&link=https://github.com/anurag-nagar)](https://stackoverflow.com/users/22607231/anurag-nagar)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://twitter.com/AnuraagNagar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraag-nagar/)](https://www.linkedin.com/in/anuraag-nagar)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagaranurag1999@gmail.com)](mailto:nagaranurag1999@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-f48730?style=flat-square&logo=stack-overflow&logoColor=white&link=https://github.com/anurag-nagar)](https://stackoverflow.com/users/22607231/anurag-nagar)
 
 <!-- My Github stats --> 
 <h2 align="center">:spiral_calendar: My Gɪᴛʜᴜʙ Sᴛᴀᴛs :spiral_calendar:</h2>
@@ -75,7 +87,7 @@
   </tr>
   <tr>
     <td>
-    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,django,flask,react,redux,nextjs,tailwind,materialui,bootstrap,sass&perline=10" />
+    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,react,redux,nextjs,nestjs,jest,tailwind,materialui,bootstrap,sass&perline=9" />
     </td>
   </tr>
 </table>
@@ -86,7 +98,7 @@
   </tr>
   <tr>
     <td>
-      <img width="500px" src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,replit,linux,figma,vercel,netlify&perline=10" />
+      <img width="500px" src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,vscode,postman,replit,linux,firebase,webpack,supabase,figma,vercel,netlify&perline=9" />
     </td>
   </tr>
 </table>
