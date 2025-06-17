@@ -1,11 +1,13 @@
 <h1 align="center">Hi <a href="https://github.com/anuraagnagar"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, 
   I'm <a href="https://github.com/anuraagnagar"><i style="color:blue;">Anurag</i></a> Nagar</h1>
 <p align="center">Self-taught and Passionate Developer from India 🇮🇳</p>
-<p align="center">I'm a Full-Stack Developer focused on delivering robust, maintainable, and performance-driven solutions.</p>
+<p align="center">I'm a Full-Stack Developer focused on building robust, maintainable, and performance-driven solutions.</p>
 <br/>
 <p align="left">
   <img alt="Profile view" src="https://komarev.com/ghpvc/?username=anuraagnagar&label=PROFILE+VIEWS&style=for-the-badge&color=045ddc">
 </p>
+
+<img align="right" src="https://github.com/anuraagnagar/anuraagnagar/blob/main/assets/dev_avatar.png" width="275"/>
 
 <h3 align="left">😎 About Me</h3>
 
